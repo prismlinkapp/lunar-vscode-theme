@@ -1,16 +1,19 @@
-# lunar README
+# Lunar
 
-## Working with Markdown
+![logo](lunarlogo128.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## A minimalist VS Code theme that makes your code shine like the moon
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<hr>
 
-## For more information
+Lunar Theme is a minimalist VS Code theme that's perfect for those who appreciate simplicity and a clean, uncluttered workspace. The theme is designed to make your code shine like the moon, with subtle shades of purple and blue that create a calming, soothing atmosphere.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Please give this repo a ⭐ it really helps me!**
 
-**Enjoy!**
+### Lunar Dark Theme
+
+## Feedback
+
+<hr>
+
+If you have any feedback, please reach out to us at devarshishimpi@gmail.com
