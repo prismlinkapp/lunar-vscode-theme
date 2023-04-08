@@ -12,6 +12,16 @@ Lunar Theme is a minimalist VS Code theme that's perfect for those who appreciat
 
 ### Lunar Dark Theme
 
+<hr>
+
+![lunardarkpreview](lunardarkpreview.png)
+
+### Lunar Light Theme
+
+<hr>
+
+![lunarlightpreview](lunarlightpreview.png)
+
 ## Feedback
 
 <hr>
