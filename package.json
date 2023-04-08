@@ -2,7 +2,7 @@
   "name": "lunar-theme",
   "displayName": "Lunar VSCode Theme",
   "description": "A minimalist VS Code theme that makes your code shine like the moon",
-  "version": "0.9.5",
+  "version": "1.0.0",
   "icon": "lunarlogo128.png",
   "engines": {
     "vscode": "^1.77.0"
