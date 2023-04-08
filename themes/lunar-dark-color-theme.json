@@ -1846,7 +1846,7 @@
 	  "foreground": "#ffffff",
 	  "focusBorder": "#7e57bc",
 	  "selection.background": "#4c00c7",
-	  "scrollbar.shadow": "#000000",
+	  "scrollbar.shadow": "#737373",
 	  "activityBar.foreground": "#ab93e0",
 	  "activityBar.background": "#100230",
 	  "activityBar.inactiveForeground": "#3f2871",
@@ -2097,4 +2097,3 @@
 	  "debugExceptionWidget.border": "#474747"
 	}
   }
-  
