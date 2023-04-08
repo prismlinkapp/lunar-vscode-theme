@@ -2,14 +2,18 @@
   "name": "lunar",
   "displayName": "lunar",
   "description": "A minimalist VS Code theme that makes your code shine like the moon",
-  "version": "0.9.0",
-  "icon": "https://github.com/devarshishimpi/lunarlogo128.png",
+  "version": "0.9.5",
+  "icon": "https://github.com/devarshishimpi/lunar-vscode-theme/lunarlogo128.png",
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devarshishimpi/lunar-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
@@ -18,7 +22,7 @@
         "path": "./themes/lunar-dark-color-theme.json"
       },
       {
-        "label": "Lunar Dark Theme",
+        "label": "Lunar Light Theme",
         "uiTheme": "vs",
         "path": "./themes/lunar-light-color-theme.json"
       }
