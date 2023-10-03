@@ -28,5 +28,8 @@
         "path": "./themes/lunar-light-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
