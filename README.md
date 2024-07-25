@@ -24,12 +24,13 @@ Website: [lunar.devarshi.dev](https://lunar.devarshi.dev)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
 4.  Search for `lunar vscode theme`
-5.  Click **Install** to install it
+5.  Click **Install** to install it with the publisher name as **PrismLink**.
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Lunar Theme**
 
 ## Alternatives
 
+- [Lunar VSCode Theme from VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=PrismLink.lunar-theme)
 - [Lunar VSCode Theme for VSCodium](https://open-vsx.org/extension/PrismLink/lunar-theme)
 - [Lunar Theme for Neovim](https://github.com/prismlinkapp/lunar.nvim)
 - Lunar Theme for Zed - Coming Soon
