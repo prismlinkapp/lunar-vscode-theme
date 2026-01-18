@@ -37,4 +37,4 @@ Website: [lunar.devarshi.dev](https://lunar.devarshi.dev)
 
 ## Feedback
 
-If you have any feedback, please reach out to us [here](https://bio.link/devarshishimpi)
+If you have any feedback, please reach out to us [here](https://devarshi.dev)
